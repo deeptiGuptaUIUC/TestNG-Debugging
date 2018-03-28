@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mediumSuite" duration-ms="14" started-at="2018-02-26T03:43:28Z" finished-at="2018-02-26T03:43:28Z">
+    <groups>
+    </groups>
+    <test name="exampletest2" duration-ms="14" started-at="2018-02-26T03:43:28Z" finished-at="2018-02-26T03:43:28Z">
+      <class name="suite2.TestClass4">
+        <test-method status="PASS" signature="test13()[pri:0, instance:suite2.TestClass4@6ea12c19]" name="test13" duration-ms="1" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method status="PASS" signature="test14()[pri:0, instance:suite2.TestClass4@6ea12c19]" name="test14" duration-ms="1" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test14 -->
+        <test-method status="PASS" signature="test15()[pri:0, instance:suite2.TestClass4@6ea12c19]" name="test15" duration-ms="1" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test15 -->
+        <test-method status="PASS" signature="test16()[pri:0, instance:suite2.TestClass4@6ea12c19]" name="test16" duration-ms="0" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test16 -->
+      </class> <!-- suite2.TestClass4 -->
+      <class name="suite2.TestClass3">
+        <test-method status="PASS" signature="test10()[pri:0, instance:suite2.TestClass3@2344fc66]" name="test10" duration-ms="0" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method status="PASS" signature="test11()[pri:0, instance:suite2.TestClass3@2344fc66]" name="test11" duration-ms="1" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="test12()[pri:0, instance:suite2.TestClass3@2344fc66]" name="test12" duration-ms="0" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method status="PASS" signature="test9()[pri:0, instance:suite2.TestClass3@2344fc66]" name="test9" duration-ms="1" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+      </class> <!-- suite2.TestClass3 -->
+    </test> <!-- exampletest2 -->
+  </suite> <!-- mediumSuite -->
+  <suite name="smallSuite" duration-ms="35" started-at="2018-02-26T03:43:28Z" finished-at="2018-02-26T03:43:28Z">
+    <groups>
+    </groups>
+    <test name="exampletest1" duration-ms="35" started-at="2018-02-26T03:43:28Z" finished-at="2018-02-26T03:43:28Z">
+      <class name="suite1.TestClass1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:suite1.TestClass1@9629756]" name="test1" duration-ms="8" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:suite1.TestClass1@9629756]" name="test2" duration-ms="0" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:suite1.TestClass1@9629756]" name="test3" duration-ms="1" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:suite1.TestClass1@9629756]" name="test4" duration-ms="0" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- suite1.TestClass1 -->
+      <class name="suite1.TestClass2">
+        <test-method status="PASS" signature="test5()[pri:0, instance:suite1.TestClass2@62ee68d8]" name="test5" duration-ms="1" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:suite1.TestClass2@62ee68d8]" name="test6" duration-ms="0" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test7()[pri:0, instance:suite1.TestClass2@62ee68d8]" name="test7" duration-ms="1" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method status="PASS" signature="test8()[pri:0, instance:suite1.TestClass2@62ee68d8]" name="test8" duration-ms="1" started-at="2018-02-25T19:43:28Z" finished-at="2018-02-25T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+      </class> <!-- suite1.TestClass2 -->
+    </test> <!-- exampletest1 -->
+  </suite> <!-- smallSuite -->
+</testng-results>

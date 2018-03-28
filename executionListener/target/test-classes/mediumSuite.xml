@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="mediumSuite">
+<listeners>
+        <listener class-name="listeners.ExecutionListener" />
+</listeners>
+	<test name="exampletest2">
+		<classes>
+			<class name="suite2.TestClass3" />
+			<class name="suite2.TestClass4" />
+		</classes>
+	</test>
+	<suite-files><suite-file path="src/test/resources/smallSuite.xml" /></suite-files>
+</suite>  	
